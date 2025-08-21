@@ -1,7 +1,7 @@
 <!-- Profile README for KrataiB -->
 
 <div align="center">
-  <img src="https://i.ibb.co/Jr8Yxsf/cute-anime-girl.png" width="200" alt="cute anime"/>
+  <img src="https://github.com/KrataiB/KrataiB/blob/main/side-view-anime-girl-hugging-dog.jpg?raw=true" width="200" alt="cute anime"/>
   
   # 🌸 Hi there, I'm **KrataiB**! 🌸
   
