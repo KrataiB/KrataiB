@@ -17,12 +17,23 @@
   ---
 
   ### 🛠️ Tech Stack
-  ```
-  💻 JavaScript | TypeScript | Python
-  ⚡ React | Next.js | TailwindCSS
-  🗄️ Prisma | PostgreSQL | MongoDB
-  ☁️ Cloudflare | Railway | GCP
-  ```
+  <p align="center">
+    <img src="https://img.shields.io/badge/Code-JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Code-TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Code-Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Framework-React-ff69b4?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-Next.js-ff69b4?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Style-TailwindCSS-ff69b4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/DB-PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/DB-MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/ORM-Prisma-ff69b4?style=for-the-badge&logo=prisma&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Cloud-Cloudflare-ff69b4?style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloud-Railway-ff69b4?style=for-the-badge&logo=railway&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloud-GCP-ff69b4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </p>
 
   ---
 
